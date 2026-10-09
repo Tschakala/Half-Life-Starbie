@@ -8,7 +8,7 @@ Half-Life Starbie is a portable digital pet that lives on a small OLED display. 
 
 ## Features
 
-![Bilder/Feat.png]
+![](Bilder/Feat.png)
 
 - XIAO ESP32-C3 microcontroller
 - 128x64 OLED display
@@ -24,14 +24,14 @@ Half-Life Starbie is a portable digital pet that lives on a small OLED display. 
 
 ### Button 1
 
-![Bilder/SW1.png]
+![](Bilder/SW1.png)
 
 - Open the radial menu
 - Confirm a selected action
 
 ### Button 2
 
-![Bilder/SW2.png]
+![](Bilder/SW2.png)
 
 - Show or hide the statistics screen
 
