@@ -68,11 +68,11 @@ Gerbers/
 
 ## PCB Render
 
-##*How It Works
+## How It Works
 
 The pet normally walks around the OLED display. Using the MPU6050, the user can tilt the device to navigate a radial menu and select actions such as:
 
-- NAP*- PLAY
+- NAP - PLAY
 - FEED
 - PET
 
