@@ -66,38 +66,38 @@ Gerbers/
 └── *.gbrjob
 ```
 
-## PCB Ren*er
+## PCB Render
 
 ##*How It Works
 
-The pet*normally walks around the OLED dis*lay. Using the*MPU6050, the user can tilt the dev*ce to navigate a radial menu*and select actions such as:
+The pet normally walks around the OLED display. Using the MPU6050, the user can tilt the device to navigate a radial menu and select actions such as:
 
 - NAP*- PLAY
 - FEED
 - PET
 
-Different act*ons*affect the pet's joy, energy and f*llness values. These*values are*stored in non-volatile memory and *emain saved between restarts.
+Different actions affect the pet's joy, energy and f*llness values. These values are stored in non-volatile memory and remain saved between restarts.
 
-## *irmware
+## Firmware
 
-The firmware is written i* Arduino C++ and uses the followin* libraries:
+The firmware is written in Arduino C++ and uses the following libraries:
 
-- Adafruit GFX Librar*
+- Adafruit GFX Library
 - Adafruit SSD1306
-- Adafruit MPU*050
+- Adafruit MPU6050
 - DHT Sensor Library
 
-## Manuf*cturing
+## Manufacturing
 
 The repository includes*complete fabrication files:
 
-- Ger*er files
+- Gerber files
 - Drill files
-- Ki*ad source files
+- KiCad source files
 
-These files*can be uploaded*directly to PCB manufacturers such*as JLCPCB or PCBWay.
+These files can be uploaded directly to PCB manufacturers such*as JLCPCB or PCBWay.
 
 ## Author
 
-R*ffael Brauner
-````*
+Raffael Brauner
+````
